@@ -1,0 +1,52 @@
+{
+  "trace_id": "nearfield_terrain_map_2026-06-05",
+  "scenario": "terrain_map",
+  "source_repo": "grid_map",
+  "domain": "terrain_and_traversability_evidence",
+  "samples": [
+    {
+      "timestamp_s": 0,
+      "success": true,
+      "latency_ms": 22,
+      "clearance_m": 0.6075,
+      "jerk": 1.215,
+      "saturation_ratio": 0.054,
+      "stability_margin": 0.348,
+      "calibration_rmse_px": 0.9900000000000001,
+      "contact_event": false
+    },
+    {
+      "timestamp_s": 1.2,
+      "success": true,
+      "latency_ms": 28,
+      "clearance_m": 0.5175,
+      "jerk": 1.6740000000000002,
+      "saturation_ratio": 0.066,
+      "stability_margin": 0.288,
+      "calibration_rmse_px": 1.1,
+      "contact_event": false
+    },
+    {
+      "timestamp_s": 2.6,
+      "success": true,
+      "latency_ms": 36,
+      "clearance_m": 0.47250000000000003,
+      "jerk": 1.89,
+      "saturation_ratio": 0.08399999999999999,
+      "stability_margin": 0.252,
+      "calibration_rmse_px": 1.276,
+      "contact_event": false
+    },
+    {
+      "timestamp_s": 4.1,
+      "success": true,
+      "latency_ms": 30,
+      "clearance_m": 0.54,
+      "jerk": 1.566,
+      "saturation_ratio": 0.072,
+      "stability_margin": 0.3,
+      "calibration_rmse_px": 1.1440000000000001,
+      "contact_event": false
+    }
+  ]
+}
